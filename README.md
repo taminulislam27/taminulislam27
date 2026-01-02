@@ -34,7 +34,11 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<div align="center">
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taminulislam27&show_icons=true&locale=en&layout=compact" alt="taminulislam27" /></p>
+    <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taminulislam27&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true"/>
   
   <br/><br/><br/>
 </div>
