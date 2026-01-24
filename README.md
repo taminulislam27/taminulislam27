@@ -35,6 +35,7 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
 
   <br>
 <div align="center">
+    <!-- <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Snake animation" /> -->
     <img src="https://github.com/taminulislam27/taminulislam27/blob/main/dist/github-user-contribution.svg" alt="Snake animation" />
     <!-- <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" /> -->
 </div>
