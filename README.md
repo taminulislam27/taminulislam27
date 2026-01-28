@@ -44,4 +44,10 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
   <br/><br/><br/>
 </div>
 
+### 👀 Visitor Count
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=taminulislam27.taminulislam27" alt="Visitor Count" />
+</div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
