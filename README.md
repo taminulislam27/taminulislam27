@@ -112,8 +112,6 @@ Recognition earned through competitive programming, leadership, and academic per
 <img src="https://img.shields.io/badge/Shohoj%20Coding-Amazing%20Leader-blueviolet?style=for-the-badge&logo=star&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeChef-2★%20Coder-brown?style=for-the-badge&logo=codechef&logoColor=white" />
 <img src="https://img.shields.io/badge/Problem%20Solved-950%2B-orange?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/BU%20IT%20Society-Joint%20R%26D%20Secretary-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-<img src="https://img.shields.io/badge/BU%20Science%20Club-Associate%20IT%20Executive-pink?style=for-the-badge&logo=googleclassroom&logoColor=white" />
 
 </p>
 
