@@ -1,23 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taminul+Islam!;Aspiring+Software+Engineer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taminul+Islam!;" />
 </h1>
 
-<!-- <br/> -->
-
-<!--
-**taminulislam27/taminulislam27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Competitive+Programmer;Future+ICPC+Champion;Aspiring+Software+Engineer!;&center=true&width=500&height=50">
+</p>
 
 # 💫 About Me:
 I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the University of Barishal, passionate about C/C++, Data Structures & Algorithms, and Competitive Programming. I’ve solved over 800 problems on platforms like Codeforces, CodeChef, and LeetCode, thereby strengthening my problem-solving skills. Beyond coding, I’m a community builder, writer, and educator, dedicated to supporting and guiding tech students through learning and growth.
