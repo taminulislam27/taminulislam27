@@ -43,6 +43,24 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
 
 <!-- <img src="https://raw.githubusercontent.com/taminul/YOUR_REPO/main/codechef.png" /> -->
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=taminulislam27&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  <br>
+<div align="center">
+    <img src="https://github.com/taminulislam27/taminulislam27/blob/main/dist/github-user-contribution-MIK.svg" alt="Snake animation" />
+    <!-- <img src="https://github.com/taminulislam27/taminulislam27/blob/main/dist/github-user-contribution.svg" alt="Snake animation" /> -->
+    <!-- <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" /> -->
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taminulislam27&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true"/>
+  
+  <br/><br/><br/>
+</div>
+
 ## 🚀 Competition Participation
 
 I actively participate in national and intra- and inter-university programming contests, focusing on data structures, algorithms, problem-solving, and teamwork.
@@ -78,26 +96,8 @@ Actively involved in campus leadership, community building, and student advocacy
 | Campus Ambassador  | Shohoj Coding                               | Jun 2025 – Present    | Coordinated student activities and communication.                        | Team Leadership · Corporate Communication · Teamwork |
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=taminulislam27&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  <br>
 <div align="center">
-    <img src="https://github.com/taminulislam27/taminulislam27/blob/main/dist/github-user-contribution-MIK.svg" alt="Snake animation" />
-    <!-- <img src="https://github.com/taminulislam27/taminulislam27/blob/main/dist/github-user-contribution.svg" alt="Snake animation" /> -->
-    <!-- <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" /> -->
-</div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taminulislam27&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true"/>
-  
-  <br/><br/><br/>
-</div>
-
-### 👀 Visitor Count
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=taminulislam27.taminulislam27" alt="Visitor Count" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=taminulislam27.taminulislam27" alt="Visitor Count" />
 </div>
 
 
