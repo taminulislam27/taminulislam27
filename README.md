@@ -6,6 +6,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Competitive+Programmer;Future+ICPC+Champion;Aspiring+Software+Engineer!;&center=true&width=500&height=50">
 </p>
 
+## 🧠 Competitive Programming Profiles
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/taminul)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=BitClouda)
+
+## 🍛 CodeChef
+
+<p align="center">
+  <a href="https://www.codechef.com/users/taminul">
+    <img src="https://img.shields.io/badge/CodeChef-taminul-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Max Rating:: 1400+ | 2★
+</p>
+
+<!-- <img src="https://raw.githubusercontent.com/taminul/YOUR_REPO/main/codechef.png" /> -->
+
+
 # 💫 About Me:
 I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the University of Barishal, passionate about C/C++, Data Structures & Algorithms, and Competitive Programming. I’ve solved over 800 problems on platforms like Codeforces, CodeChef, and LeetCode, thereby strengthening my problem-solving skills. Beyond coding, I’m a community builder, writer, and educator, dedicated to supporting and guiding tech students through learning and growth.
 
