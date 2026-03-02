@@ -30,8 +30,8 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
 
 ## 🧠 Competitive Programming 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/taminul)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=BitClouda)
+![LeetCode Stats](https://leetcard.jacoblin.cool/taminul)
 
 ## 🍛 CodeChef
 
@@ -42,7 +42,7 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
 </p>
 
 <p align="center">
-  ⭐ Max Rating:: 1400+ | 2★
+   Max Rating:: 1400+ | 2★
 </p>
 
 <!-- <img src="https://raw.githubusercontent.com/taminul/YOUR_REPO/main/codechef.png" /> -->
@@ -66,9 +66,9 @@ I actively participate in national and intra- and inter-university programming c
 
 | Blog Name                                                   | Platform  | Link |
 |------------------------------------------------------------|----------|------|
-| কোডের অক্ষরে লেখা এক স্বপ্নের গল্প               | Facebook   | 👉 [Read](#) |
-| আমি কোড লিখি, কিন্তু প্রবলেম সল্ভ করতে পারি না…      | Medium   | 👉 [Read](#) |
-| 2045 CLASSROOM — ২০৪৫ সালের একটি স্কুল | Medium | 👉 [Read](#) |
+| কোডের অক্ষরে লেখা এক স্বপ্নের গল্প               | Facebook   | 👉 [Read](https://www.facebook.com/share/p/1AYmEs6ZXN/) |
+| আমি কোড লিখি, কিন্তু প্রবলেম সল্ভ করতে পারি না…      | Medium   | 👉 [Read](https://medium.com/@taminulislam27/%E0%A6%86%E0%A6%AE%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A1-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%BF-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%AE-%E0%A6%B8%E0%A6%B2%E0%A7%8D%E0%A6%AD-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%A8%E0%A6%BE-a1d7e924cd61) |
+| 2045 CLASSROOM — ২০৪৫ সালের একটি স্কুল | Medium | 👉 [Read](https://medium.com/@taminulislam27/2045-classroom-%E0%A7%A8%E0%A7%A6%E0%A7%AA%E0%A7%AB-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-0dc90147d339) |
 
 ## 🌟 Extra-Curricular Activities & Leadership
 
