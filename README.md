@@ -58,7 +58,7 @@ I actively participate in national and intra- and inter-university programming c
 | Competition                | Organizer                               | Team         | Achievement                                      | Date      |
 |---------------------------|-----------------------------------------|--------------|--------------------------------------------------|-----------|
 | BU IUPC'26       | Programming Club BUCSE                     | -  | 🥉 13th | Feb 2026  |
-| ICPC Preli  | National    | BU_Titans       | 🥉  | Sep 2025  |
+| ICPC Preli  | National    | BU_Titans       | 🥉  | Nov 2025  |
 
 ## ✍️ Read My Blogs on [ Medium, Facebook ]
 
