@@ -95,6 +95,18 @@ Actively involved in campus leadership, community building, and student advocacy
 | Campus Ambassador  | Phitron                               | Dec 2025 – Present    | Promoted programming culture, organized workshops, and guided students in coding.         | Leadership · Teamwork · Management · Networking |
 | Campus Ambassador  | Shohoj Coding                               | Jun 2025 – Present    | Coordinated student activities and communication.                        | Team Leadership · Corporate Communication · Teamwork |
 
+## 🏆 Awards & Achievements
+
+Recognitions earned through competitive programming, leadership, and academic performance.
+
+| Achievement | Event / Platform | Organizer | Position | Year |
+|-------------|------------------|-----------|----------|------|
+| ⭐ Best Performer – Phitronista’25 | Programming Learning Program | Phitron | 🏆 Awarded | 2025 |
+| 🚀 Amazing Leader of the Month | Community Leadership | Shohoj Coding | 🏅 Awarded | June 2025 |
+| 💻 2-Star Coder | Competitive Programming | CodeChef | 🌟 Achieved | 2024 |
+| 🧠 Solved 900+ Problems | CP Platforms (CF, CC, LC) | Self-driven | 🎯 Milestone | Ongoing |
+| 👨‍💼 Joint R&D Secretary | Barishal University IT Society | BU IT Society | 📌 Leadership Role | 2025–Present |
+| 🧑‍💻 Founder | CodeBreakers Alliance | CP Study Group | 🚀 Leadership | Ongoing |
 
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=taminulislam27.taminulislam27" alt="Visitor Count" />
