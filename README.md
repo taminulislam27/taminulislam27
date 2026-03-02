@@ -108,6 +108,18 @@ Recognitions earned through competitive programming, leadership, and academic pe
 | 👨‍💼 Joint R&D Secretary | Barishal University IT Society | BU IT Society | 📌 Leadership Role | 2025–Present |
 | 🧑‍💻 Founder | CodeBreakers Alliance | CP Study Group | 🚀 Leadership | Ongoing |
 
+<p align="left">
+
+<img src="https://img.shields.io/badge/Phitronista'25-Best%20Performer-success?style=for-the-badge&logo=trophy&logoColor=white" />
+<img src="https://img.shields.io/badge/Shohoj%20Coding-Amazing%20Leader-blueviolet?style=for-the-badge&logo=star&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-2★%20Coder-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem%20Solved-900%2B-orange?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/BU%20IT%20Society-Joint%20R%26D%20Secretary-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeBreakers%20Alliance-Founder-red?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=taminulislam27.taminulislam27" alt="Visitor Count" />
 </div>
