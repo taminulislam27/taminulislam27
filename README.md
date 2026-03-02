@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the University of Barishal, passionate about C/C++, Data Structures & Algorithms, and Competitive Programming. I’ve solved over 800 problems on platforms like Codeforces, CodeChef, and LeetCode, thereby strengthening my problem-solving skills. Beyond coding, I’m a community builder, writer, and educator, dedicated to supporting and guiding tech students through learning and growth.
+I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the University of Barishal, passionate about C/C++, Data Structures & Algorithms, and Competitive Programming. I’ve solved over 950 problems on platforms like Codeforces, CodeChef, and LeetCode, thereby strengthening my problem-solving skills. Beyond coding, I’m a community builder, writer, and educator, dedicated to supporting and guiding tech students through learning and growth.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,11 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,js,python,kotlin,cloudflare,gcp,netlify,vercel,tailwind,wordpress,figma,github,git,mysql,unity" />
+  <!-- <img src="https://skillicons.dev/icons?i=c,cpp,css,js,python,kotlin,cloudflare,gcp,netlify,vercel,tailwind,wordpress,figma,github,git,mysql,unity" /> -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,css" /> <br>
+  <img src="https://skillicons.dev/icons?i=js,python,kotlin,cloudflare,gcp" /> <br>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,tailwind,wordpress,github" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,mysql,unity" />
 </p>
 
 <p align="center">
