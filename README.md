@@ -80,10 +80,24 @@ Actively involved in campus leadership, community building, and student advocacy
 |--------------------|----------------------------------------|-----------------------|-------------------------------------------------------------------------------------------|---------------------------------------------|
 | Campus Ambassador  | Phitron                               | Dec 2025 – Present    | Promoted programming culture, organized workshops, and guided students in coding.         | Leadership · Teamwork · Management · Networking |
 | Campus Ambassador  | Shohoj Coding                               | Jun 2025 – Present    | Coordinated student activities and communication.                        | Team Leadership · Corporate Communication · Teamwork |
+| Joint R&D Secretary  | Barishal University IT Society   | Nov 2025 – Present    | Coordinated student activities and communication.    | Leadership · Teamwork |
+| Associate IT Executive  | Barishal University Science Club | Jan 2026 – Present    | Coordinated student activities and communication.    | Leadership · Teamwork |
+
+<p align="left">
+
+<!-- <img src="https://img.shields.io/badge/Phitronista'25-Best%20Performer-success?style=for-the-badge&logo=trophy&logoColor=white" />
+<img src="https://img.shields.io/badge/Shohoj%20Coding-Amazing%20Leader-blueviolet?style=for-the-badge&logo=star&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/Campus%20Ambassador-Phitron-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/Campus%20Ambassador-Sohoj%20Coding%2B-orange?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/BU%20IT%20Society-Joint%20R%26D%20Secretary-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+<img src="https://img.shields.io/badge/BU%20Science%20Club-Associate%20IT%20Executive-pink?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+
+</p>
+
 
 ## 🏆 Awards & Achievements
 
-Recognitions earned through competitive programming, leadership, and academic performance.
+Recognition earned through competitive programming, leadership, and academic performance.
 
 | Achievement | Event / Program | Organizer | Position | Year |
 |-------------|------------------|-----------|----------|------|
@@ -91,8 +105,6 @@ Recognitions earned through competitive programming, leadership, and academic pe
 | 🚀 Amazing Leader of June'25 | Campus Ambassador'25 | Shohoj Coding | 🏅 | June 2025 |
 | 💻 2★ Coder | Competitive Programming | CodeChef | 🏅 | 2025 |
 | 🧠 Solved 950+ Problems | Self-driven | CP Platforms (CF, CC, LC) | 🎯 Milestone | Ongoing |
-| 👨‍💼 Joint R&D Secretary | IT Society | Barishal University IT Society | 📌 Leadership Role | 2025–Present |
-| 👨‍💼 Associate IT Executive | Science Club | Barishal University Science Club | 📌 Leadership Role | 2026–Present |
 
 <p align="left">
 
