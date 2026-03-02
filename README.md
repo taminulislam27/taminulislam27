@@ -30,7 +30,8 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
 
 ## 🧠 Competitive Programming 
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=BitClouda)
+<!-- ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=BitClouda) -->
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/taminul)
 
 ## 🍛 CodeChef
