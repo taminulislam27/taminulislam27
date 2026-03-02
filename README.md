@@ -85,23 +85,23 @@ Actively involved in campus leadership, community building, and student advocacy
 
 Recognitions earned through competitive programming, leadership, and academic performance.
 
-| Achievement | Event / Platform | Organizer | Position | Year |
+| Achievement | Event / Program | Organizer | Position | Year |
 |-------------|------------------|-----------|----------|------|
-| ⭐ Best Performer – Phitronista’25 | Programming Learning Program | Phitron | 🏆 Awarded | 2025 |
-| 🚀 Amazing Leader of the Month | Community Leadership | Shohoj Coding | 🏅 Awarded | June 2025 |
-| 💻 2-Star Coder | Competitive Programming | CodeChef | 🌟 Achieved | 2024 |
-| 🧠 Solved 900+ Problems | CP Platforms (CF, CC, LC) | Self-driven | 🎯 Milestone | Ongoing |
-| 👨‍💼 Joint R&D Secretary | Barishal University IT Society | BU IT Society | 📌 Leadership Role | 2025–Present |
-| 🧑‍💻 Founder | CodeBreakers Alliance | CP Study Group | 🚀 Leadership | Ongoing |
+| ⭐ Best Performer | Phitronista’25 | Phitron | 🏆 Top 1% | 2025 |
+| 🚀 Amazing Leader of June'25 | Campus Ambassador'25 | Shohoj Coding | 🏅 | June 2025 |
+| 💻 2★ Coder | Competitive Programming | CodeChef | 🏅 | 2025 |
+| 🧠 Solved 950+ Problems | Self-driven | CP Platforms (CF, CC, LC) | 🎯 Milestone | Ongoing |
+| 👨‍💼 Joint R&D Secretary | IT Society | Barishal University IT Society | 📌 Leadership Role | 2025–Present |
+| 👨‍💼 Associate IT Executive | Science Club | Barishal University Science Club | 📌 Leadership Role | 2026–Present |
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Phitronista'25-Best%20Performer-success?style=for-the-badge&logo=trophy&logoColor=white" />
 <img src="https://img.shields.io/badge/Shohoj%20Coding-Amazing%20Leader-blueviolet?style=for-the-badge&logo=star&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeChef-2★%20Coder-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem%20Solved-900%2B-orange?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem%20Solved-950%2B-orange?style=for-the-badge&logo=hackerrank&logoColor=white" />
 <img src="https://img.shields.io/badge/BU%20IT%20Society-Joint%20R%26D%20Secretary-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeBreakers%20Alliance-Founder-red?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/BU%20Science%20Club-Associate%20IT%20Executive-pink?style=for-the-badge&logo=googleclassroom&logoColor=white" />
 
 </p>
 
