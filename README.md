@@ -56,6 +56,28 @@ I actively participate in national and intra- and inter-university programming c
 | BU IUPC'26       | Programming Club BUCSE                     | -  | 🥉 13th | Feb 2026  |
 | ICPC Preli  | National    | BU_Titans       | 🥉  | Sep 2025  |
 
+## ✍️ Read My Blogs on [ Medium, Facebook ]
+
+---
+
+| Blog Name                                                   | Platform  | Link |
+|------------------------------------------------------------|----------|------|
+| কোডের অক্ষরে লেখা এক স্বপ্নের গল্প               | Facebook   | 👉 [Read](#) |
+| আমি কোড লিখি, কিন্তু প্রবলেম সল্ভ করতে পারি না…      | Medium   | 👉 [Read](#) |
+| 2045 CLASSROOM — ২০৪৫ সালের একটি স্কুল | Medium | 👉 [Read](#) |
+
+## 🌟 Extra-Curricular Activities & Leadership
+
+Actively involved in campus leadership, community building, and student advocacy through multiple Campus Ambassador and Associate roles.
+
+---
+
+| Role               | Organization                          | Duration              | Responsibilities & Impact                                                                 | Skills                                      |
+|--------------------|----------------------------------------|-----------------------|-------------------------------------------------------------------------------------------|---------------------------------------------|
+| Campus Ambassador  | Phitron                               | Dec 2025 – Present    | Promoted programming culture, organized workshops, and guided students in coding.         | Leadership · Teamwork · Management · Networking |
+| Campus Ambassador  | Shohoj Coding                               | Jun 2025 – Present    | Coordinated student activities and communication.                        | Team Leadership · Corporate Communication · Teamwork |
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
