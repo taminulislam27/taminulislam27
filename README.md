@@ -43,6 +43,19 @@ I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the Unive
 
 <!-- <img src="https://raw.githubusercontent.com/taminul/YOUR_REPO/main/codechef.png" /> -->
 
+## 🚀 Competition Participation
+
+I actively participate in national and intra- and inter-university programming contests, focusing on data structures, algorithms, problem-solving, and teamwork.
+
+---
+
+## 🧠 Contest Highlights
+
+| Competition                | Organizer                               | Team         | Achievement                                      | Date      |
+|---------------------------|-----------------------------------------|--------------|--------------------------------------------------|-----------|
+| BU IUPC'26       | Programming Club BUCSE                     | -  | 🥉 13th | Feb 2026  |
+| ICPC Preli  | National    | BU_Titans       | 🥉  | Sep 2025  |
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
