@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the University of Barishal, passionate about C/C++, Data Structures & Algorithms, and Competitive Programming. I’ve solved over 970 problems on platforms like Codeforces, CodeChef, and LeetCode, thereby strengthening my problem-solving skills. Beyond coding, I’m a community builder, writer, and educator, dedicated to supporting and guiding tech students through learning and growth.
+I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the University of Barishal, passionate about C/C++, Data Structures & Algorithms, and Competitive Programming. I’ve solved over 980 problems on platforms like Codeforces, CodeChef, and LeetCode, thereby strengthening my problem-solving skills. Beyond coding, I’m a community builder, writer, and educator, dedicated to supporting and guiding tech students through learning and growth.
 
 
 ## 🌐 Socials:
