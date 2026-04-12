@@ -105,7 +105,7 @@ Recognition earned through competitive programming, leadership, and academic per
 | ⭐ Best Performer | Phitronista’25 | Phitron | 🏆 Top 1% | 2025 |
 | 🚀 Amazing Leader of June'25 | Campus Ambassador'25 | Shohoj Coding | 🏅 | June 2025 |
 | 💻 2★ Coder | Competitive Programming | CodeChef | 🏅 | 2025 |
-| 🧠 Solved 980+ Problems | Self-driven | CP Platforms (CF, CC, LC) | 🎯 Milestone | Ongoing |
+| 🧠 Solved 1K+ Problems | Self-driven | CP Platforms (CF, CC, LC) | 🎯 Milestone | Ongoing |
 
 <p align="left">
 
