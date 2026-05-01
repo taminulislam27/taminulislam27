@@ -102,10 +102,11 @@ Recognition earned through competitive programming, leadership, and academic per
 
 | Achievement | Event / Program | Organizer | Position | Year |
 |-------------|------------------|-----------|----------|------|
-| ⭐ Best Performer | Phitronista’25 | Phitron | 🏆 Top 1% | 2025 |
-| 🚀 Amazing Leader of June'25 | Campus Ambassador'25 | Shohoj Coding | 🏅 | June 2025 |
-| 💻 2★ Coder | Competitive Programming | CodeChef | 🏅 | 2025 |
-| 🧠 Solved 1K+ Problems | Self-driven | CP Platforms (CF, CC, LC) | 🎯 Milestone | Ongoing |
+| Best Performer | Phitronista’25 | Phitron | 🏆 Top 1% | 2025 |
+| Amazing Leader of June'25 | Campus Ambassador'25 | Shohoj Coding | 🏅 | June 2025 |
+| 2★ Coder | Competitive Programming | CodeChef | 🏅 | 2025 |
+| Batch Winner | Academic Problem-Solving Hackathon 1.0 | OneByZero Edu | 🏆 Top 1% | April 2026 |
+| Solved 1K+ Problems | Self-driven | CP Platforms (CF, CC, LC) | 🎯 Milestone | Ongoing |
 
 <p align="left">
 
