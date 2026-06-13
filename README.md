@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Competitive+Programmer;Future+ICPC+Champion;Aspiring+Software+Engineer!;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Competitive+Programmer;Aspiring+Software+Engineer!;&center=true&width=500&height=50">
 </p>
 
 # 💫 About Me:
