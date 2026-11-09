@@ -26,15 +26,18 @@ I'm a Computer Science & Engineering student at the University of Barishal. I lo
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taminul.islam.50) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taminuli502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-taminul-islam-bu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@taminulislam27) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Taminul-Islam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25040396) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Md_taminul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taminulislam27@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taminul.islam.50) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taminuli502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-taminul-islam-bu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@taminulislam27) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Taminul-Islam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25040396) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Md_taminul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taminulislam27@gmail.com) 
 
 ## 💻 Tech Stack:
 <p align="center">
   <!-- <img src="https://skillicons.dev/icons?i=c,cpp,css,js,python,kotlin,cloudflare,gcp,netlify,vercel,tailwind,wordpress,figma,github,git,mysql,unity" /> -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,css" /> <br>
+  <img src="https://skillicons.dev/icons?i=c" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,ts" /> <br>
   <img src="https://skillicons.dev/icons?i=js,python,kotlin,cloudflare,gcp" /> <br>
   <img src="https://skillicons.dev/icons?i=netlify,vercel,tailwind,wordpress,github" /> <br>
-  <img src="https://skillicons.dev/icons?i=git,mysql,unity" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,mysql,unity" /> <br>
+  <img src="https://skillicons.dev/icons?i=cpp" /> <br>
 </p>
 
 <p align="center">
