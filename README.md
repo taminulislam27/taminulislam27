@@ -1,19 +1,34 @@
-<h1 align="center">
+
+<!-- ===== BANNER ===== --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Taminul%20Islam&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20Competitive%20Programmer&descSize=18&descAlignY=60&stroke=4fd1c5&strokeWidth=1" alt="Taminul Islam banner" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Building+with+Next.js+%26+TypeScript;Solving+problems+in+C%2FC%2B%2B;Always+learning%2C+always+shipping" alt="Typing animation" /> </p> 
+
+<!-- <h2 align="center">Hi, I'm Taminul Islam 👋</h2> <h3 align="center">CSE Student • Web Developer • Competitive Programmer</h3> -->
+
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taminul+Islam!;" />
-</h1>
+</h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Competitive+Programmer;Aspiring+Software+Engineer!;&center=true&width=500&height=50">
-</p>
+</p> -->
 
-# 💫 About Me:
-I’m Taminul Islam, a Computer Science & Engineering (CSE) student at the University of Barishal, passionate about C/C++, **Data Structures & Algorithms (DSA)**, and Competitive Programming. I’ve solved over **1K problems** on platforms like Codeforces, CodeChef, and LeetCode, thereby strengthening my problem-solving skills. Beyond coding, I’m a community builder, writer, and educator, dedicated to supporting and guiding tech students through learning and growth.
+## 🧑‍💻 About Me
+
+I'm a Computer Science & Engineering student at the University of Barishal. I love problem solving in C/C++, building clean and responsive web apps with Next.js, and helping other students grow in tech. I'm always learning, and I enjoy turning ideas into real projects.
+
+## 🚀 What I'm Doing Right Now
+
+- 🔭 Building **StudioSpace**, a peer-to-peer creative studio booking platform (Next.js + Express + MongoDB)
+- 🛒 Working on **BazarDor**, a grocery price tracker built with Next.js
+- 🌱 Exploring **Next.js** and full-stack development in depth
+- 🌐 Planning my personal portfolio website
+- 🧠 Practicing Data Structures & Algorithms on Codeforces, CodeChef and LeetCode
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taminul.islam.50) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taminuli502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-taminul-islam-bu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@taminulislam27) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Taminul-Islam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25040396) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Md_taminul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taminulislam27@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
   <!-- <img src="https://skillicons.dev/icons?i=c,cpp,css,js,python,kotlin,cloudflare,gcp,netlify,vercel,tailwind,wordpress,figma,github,git,mysql,unity" /> -->
   <img src="https://skillicons.dev/icons?i=c,cpp,css" /> <br>
@@ -117,7 +132,7 @@ Recognition earned through competitive programming, leadership, and academic per
 
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=taminulislam27&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taminulislam27&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
