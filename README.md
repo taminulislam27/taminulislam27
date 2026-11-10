@@ -29,11 +29,6 @@ I'm a Computer Science & Engineering student at the University of Barishal. I lo
   <img src="https://skillicons.dev/icons?i=cpp" /> <br>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white"/>
-</p>
-
 ## 🧠 Competitive Programming 
 
 <!-- ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=BitClouda) -->
